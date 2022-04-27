@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8B3-7870
+
+ Directory of C:\Users\bob-w\Documents\Development\GITRemoteUpstream\ClientWindowsCreate
+
+04/27/2022  08:12 AM    <DIR>          .
+04/27/2022  08:12 AM    <DIR>          ..
+04/27/2022  08:12 AM                 0 ClintWindowsCreateDir.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  317,116,665,856 bytes free
