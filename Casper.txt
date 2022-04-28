@@ -1,0 +1,20 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8B3-7870
+
+ Directory of C:\Users\bob-w\Documents\Development\GITRemoteUpstream
+
+04/28/2022  12:40 PM    <DIR>          .
+04/28/2022  12:40 PM    <DIR>          ..
+04/28/2022  12:39 PM                 6 20220428-817-NewFile.txt
+04/28/2022  12:39 PM                33 AfterContribRemove
+04/28/2022  12:39 PM                63 bobwright.txt
+04/28/2022  12:40 PM                 0 Casper.txt
+04/27/2022  10:59 AM    <DIR>          ClientCreatedFolder
+04/27/2022  10:59 AM    <DIR>          ClientWindowsCreate
+04/28/2022  12:39 PM               118 CreateFileClient.txt
+04/27/2022  10:59 AM    <DIR>          CreateFolderOneFile
+04/28/2022  12:39 PM               102 PullTest.txt
+04/27/2022  11:24 AM                13 PullTest2.txt
+04/28/2022  12:39 PM               112 README.md
+               8 File(s)            447 bytes
+               5 Dir(s)  315,806,273,536 bytes free
